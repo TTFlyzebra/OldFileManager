@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dlgnewfile_tv01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dlgnewfile"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/dlgnewfile_et01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="none" />
+
+    <RadioGroup
+        android:id="@+id/dlgnewfile_rg01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:checkedButton="@+id/dlgnewfile_rb01" >
+
+        <RadioButton
+            android:id="@+id/dlgnewfile_rb01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/dir" />
+
+        <RadioButton
+            android:id="@+id/dlgnewfile_rb02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/file" />
+    </RadioGroup>
+
+</LinearLayout>

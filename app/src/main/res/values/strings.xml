@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文件管理器</string>
+    <string name="action_settings">设置</string>
+    <string name="action_exits">退出</string>
+    <string name="title">宇翔科技文件管理器</string>
+    <string name="empty"></string>
+    <string name="address">新目录</string>
+    <string name="viewmode">视图</string>
+    <string name="exit">退出</string>
+    <string name="onback">后退</string>
+    <string name="newfile">新建</string>
+    <string name="network">局域网</string>
+    <string name="sdcard">存储卡</string>
+    <string name="find">快捷</string>
+    <string name="home">首页</string>
+    <string name="cancel">取消</string>
+    <string name="rename">重命名</string>
+    <string name="copy">复制</string>
+    <string name="cut">移动</string>
+    <string name="del">删除</string>
+    <string name="paset">粘贴</string>
+    <string name="share">FTP</string>
+    <string name="file">文件</string>
+    <string name="dir">文件夹</string>
+    <string name="dlgadd1">输入存在的正确目录路径:</string>
+    <string name="dlgadd2">输入名称:</string>
+    <string name="username">用户：</string>
+    <string name="password">密码：</string>
+    <string name="itemname">名称：</string>    
+    <string name="dlgnewfile">要创建的文件名：</string>
+    <string name="connetpc">地址：</string>
+    <string name="all">全选</string>
+    <string name="dlg_copyfile">正在复制：</string>
+
+</resources>

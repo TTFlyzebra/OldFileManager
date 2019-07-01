@@ -1,0 +1,4 @@
+#Mon Jul 01 17:24:52 CST 2019
+base.0=/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

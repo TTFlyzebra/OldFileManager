@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,8,33,3,17,32,19,20,21,25,34,26,27,31,7,10,24,15,16,30,13,12,11,22,29,18,14,23,6,28,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "146,99,269,1250,56,613,1209,690,726,761,907,1285,943,992,1161,234,349,871,541,577,1116,462,423,385,796,1075,651,502,833,190,1034,309",
+                        "endColumns": "43,46,39,34,42,37,40,35,34,34,35,46,48,41,47,34,35,35,35,35,40,39,38,37,36,40,38,38,37,43,40,39",
+                        "endOffsets": "185,141,304,1280,94,646,1245,721,756,791,938,1327,987,1029,1204,264,380,902,572,608,1152,497,457,418,828,1111,685,536,866,229,1070,344"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,213,260,300,335,378,416,457,493,528,563,599,646,695,737,785,812,848,884,920,956,997,1037,1076,1114,1151,1192,1231,1270,1308,1352,1393",
+                        "endColumns": "43,46,39,34,42,37,40,35,34,34,35,46,48,41,47,26,35,35,35,35,40,39,38,37,36,40,38,38,37,43,40,39",
+                        "endOffsets": "208,255,295,330,373,411,452,488,523,558,594,641,690,732,780,807,843,879,915,951,992,1032,1071,1109,1146,1187,1226,1265,1303,1347,1388,1428"
+                    }
+                },
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "36,43",
+                        "startColumns": "4,4",
+                        "startOffsets": "1433,1724",
+                        "endLines": "42,45",
+                        "endColumns": "12,12",
+                        "endOffsets": "1719,1879"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

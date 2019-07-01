@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/home/flyzebra/AndroidPro/mypro/FileManager/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/flyzebra/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"filemanager-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "filemanager",
+			"buildCommand" : "/home/flyzebra/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/release/x86 --target filemanager",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/home/flyzebra/Android/Ndk/android-ndk-r16b/toolchains/x86-4.9/prebuilt/linux-x86_64 --sysroot=/home/flyzebra/Android/Ndk/android-ndk-r16b/sysroot -DNO_CRYPTO -Dfilemanager_EXPORTS -I../../../../src/main/cpp  -isystem /home/flyzebra/Android/Ndk/android-ndk-r16b/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/cpp/FileManager.c",
+					"workingDirectory" : "/home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/cmake/release/obj/x86/libfilemanager.so",
+			"toolchain" : "7519063393698411401"
+		}
+	},
+	"toolchains" : 
+	{
+		"7519063393698411401" : 
+		{
+			"cCompilerExecutable" : "/home/flyzebra/Android/Ndk/android-ndk-r16b/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/flyzebra/Android/Ndk/android-ndk-r16b/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

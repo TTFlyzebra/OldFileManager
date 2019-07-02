@@ -8,9 +8,9 @@
         android:drawable="@drawable/butpress" 
         android:state_focused="true"/>
     <item
-        android:drawable="@drawable/butnormal"
+        android:drawable="@android:color/white"
         android:state_pressed="false"/>
     <item
-        android:drawable="@drawable/butnormal"/>
+        android:drawable="@android:color/white"/>
 
 </selector>

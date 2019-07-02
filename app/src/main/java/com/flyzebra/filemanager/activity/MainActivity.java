@@ -2083,7 +2083,7 @@ public class MainActivity extends Activity implements OnItemClickListener,
 			dlg_copyfile_isshow = true;
 			ShowDlgCopyFile();
 		}
-		super.onStart();
+		super.onResume();
 	}
 
 	@Override

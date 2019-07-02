@@ -1,3 +1,0 @@
-/home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
-/home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
-/home/flyzebra/AndroidPro/mypro/FileManager/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/filemanager.dir

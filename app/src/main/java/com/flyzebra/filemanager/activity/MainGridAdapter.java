@@ -3,7 +3,7 @@ package com.flyzebra.filemanager.activity;
 import java.util.HashMap;
 import java.util.List;
 
-import com.flyzebra.customView.AutoImageView;
+import com.flyzebra.filemanager.customView.AutoImageView;
 import com.flyzebra.filemanager.R;
 import com.flyzebra.filemanager.tools.BitmapTools;
 
@@ -97,10 +97,10 @@ public class MainGridAdapter extends BaseAdapter {
 
 		// 设置图标背景
 		if (TYPE % 2 == 1) {
-			holder.lr01.setBackgroundColor(Color.BLUE);
+			holder.iv01.setBackgroundColor(Color.BLUE);
 			TYPE--;
 		} else {
-			holder.lr01.setBackgroundColor(Color.WHITE);
+			holder.iv01.setBackgroundColor(0x00000000);
 		}
 		// 设置图标
 		switch (TYPE) {

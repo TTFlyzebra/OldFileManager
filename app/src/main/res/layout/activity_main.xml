@@ -7,7 +7,7 @@
 
     <LinearLayout
         android:id="@+id/vertical_menu"
-        android:layout_width="60dp"
+        android:layout_width="80dp"
         android:layout_height="fill_parent"
         android:background="#111111"
         android:baselineAligned="false"
@@ -18,7 +18,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_exit"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -42,7 +42,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_adddir"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -66,7 +66,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_addnetwork"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -90,7 +90,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_back"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -114,7 +114,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_home"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -138,7 +138,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_find"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -162,7 +162,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_newfile"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -187,7 +187,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_copy"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -211,7 +211,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_cut"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -235,7 +235,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_paset"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -260,7 +260,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_rename"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -284,7 +284,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_del"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -308,7 +308,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_share"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -332,7 +332,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_all"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -356,7 +356,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_cancel"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"
@@ -380,7 +380,7 @@
 
         <LinearLayout
             android:id="@+id/menu01_v_view"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/butbackgroud"

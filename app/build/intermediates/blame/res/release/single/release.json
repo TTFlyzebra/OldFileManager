@@ -28,12 +28,12 @@
         "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/drawable-hdpi/icon_card.png"
     },
     {
-        "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/drawable-hdpi_icon_video1.png.flat",
-        "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/drawable-hdpi/icon_video1.png"
-    },
-    {
         "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
         "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/drawable-hdpi_icon_video1.png.flat",
+        "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/drawable-hdpi/icon_video1.png"
     },
     {
         "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/layout_dlg_copyfile.xml.flat",
@@ -74,6 +74,10 @@
     {
         "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/drawable-hdpi_icon_pdf2.png.flat",
         "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/drawable-hdpi/icon_pdf2.png"
+    },
+    {
+        "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/drawable-hdpi_itembackgroud.xml.flat",
+        "source": "/home/flyzebra/AndroidPro/mypro/FileManager/app/src/main/res/drawable-hdpi/itembackgroud.xml"
     },
     {
         "merged": "/home/flyzebra/AndroidPro/mypro/FileManager/app/build/intermediates/res/merged/release/drawable-hdpi_but_refresh.png.flat",
